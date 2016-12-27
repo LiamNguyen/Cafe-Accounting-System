@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B44AECAB-E623-45F5-AAC5-30FFD243C7F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AccountingSystemUI</RootNamespace>
+    <AssemblyName>iCafe</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cafeIcon1_adjust_resized.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.1.UI, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v16.1.Extensions, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio 12.0\Visual Studio Tools for Office\PIA\Office15\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountingSystemDbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AccountingSystemDbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AccountingSystemDbDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AccountingSystemDbDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BillPrinter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BillPrinter.Designer.cs">
+      <DependentUpon>BillPrinter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AssignPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AssignPermission.Designer.cs">
+      <DependentUpon>Form_AssignPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_HomePage.Designer.cs">
+      <DependentUpon>Form_HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PopUpSearchStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PopUpSearchStaff.Designer.cs">
+      <DependentUpon>Form_PopUpSearchStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Products.Designer.cs">
+      <DependentUpon>Form_Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Report.Designer.cs">
+      <DependentUpon>Form_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Staffs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Staffs.Designer.cs">
+      <DependentUpon>Form_Staffs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_OrderMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_OrderMenu.Designer.cs">
+      <DependentUpon>Form_OrderMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_StockManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_StockManagement.Designer.cs">
+      <DependentUpon>Form_StockManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_UserLogin.Designer.cs">
+      <DependentUpon>Form_UserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Form_DetailOrderMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DetailOrderMenu.Designer.cs">
+      <DependentUpon>Form_DetailOrderMenu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form_AssignPermission.resx">
+      <DependentUpon>Form_AssignPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_HomePage.resx">
+      <DependentUpon>Form_HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PopUpSearchStaff.resx">
+      <DependentUpon>Form_PopUpSearchStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Products.resx">
+      <DependentUpon>Form_Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Report.resx">
+      <DependentUpon>Form_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Staffs.resx">
+      <DependentUpon>Form_Staffs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_OrderMenu.resx">
+      <DependentUpon>Form_OrderMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_StockManagement.resx">
+      <DependentUpon>Form_StockManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_UserLogin.resx">
+      <DependentUpon>Form_UserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DetailOrderMenu.resx">
+      <DependentUpon>Form_DetailOrderMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AccountingSystemDbDataSet.xsc">
+      <DependentUpon>AccountingSystemDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AccountingSystemDbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AccountingSystemDbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AccountingSystemDbDataSet.xss">
+      <DependentUpon>AccountingSystemDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AccountingSystemDbDataSet1.xsc">
+      <DependentUpon>AccountingSystemDbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AccountingSystemDbDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AccountingSystemDbDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AccountingSystemDbDataSet1.xss">
+      <DependentUpon>AccountingSystemDbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dessert-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espresso-icon.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Espresso-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frappuchino-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smoothies-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soda-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Breakfast-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dessert-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screen Shot 2016-08-08 at 23.53.53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dessert-icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccountingSystemBUS\AccountingSystemBUS.csproj">
+      <Project>{035cc76d-8800-45ac-a9d1-fc9f1de5aa9f}</Project>
+      <Name>AccountingSystemBUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountingSystemDAL\AccountingSystemDAL.csproj">
+      <Project>{b1a1726f-bbec-4dff-ab39-05a282fec5ae}</Project>
+      <Name>AccountingSystemDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountingSystemEntity\AccountingSystemEntity.csproj">
+      <Project>{2f9c1539-2bea-4221-9e5a-59e33fb39c6a}</Project>
+      <Name>AccountingSystemEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountingSystemValidation\AccountingSystemValidation.csproj">
+      <Project>{08bdb68b-5105-421e-9464-0708bb26285d}</Project>
+      <Name>AccountingSystemValidation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kopoLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kopoLogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_button_2-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kopoLogo2-ptsEdited.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kopoLogo2_ptsEditedP2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kopoLogo2_ptsEdited3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-window-xxl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window1600.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize-Window-icon-150x150.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-Window-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_window1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\username.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\systemIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staffIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\permissionIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logInIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\signInIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\signOutIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxIcon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxIcon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxIcon21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cafeIcon1_adjust_resized.ico" />
+    <Content Include="iCafeIcon_crop72x72.ico" />
+    <None Include="Resources\productIcon3.png" />
+    <None Include="Resources\excelIcon1.png" />
+    <None Include="Resources\excelIcon.png" />
+    <None Include="Resources\excelIcon1_hover.ico_256x256.png" />
+    <None Include="Resources\cafeIcon.ico" />
+    <None Include="Resources\cafeIcon1_adjust.ico" />
+    <None Include="Resources\minimizeIcon.png" />
+    <None Include="Resources\maximizeIcon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

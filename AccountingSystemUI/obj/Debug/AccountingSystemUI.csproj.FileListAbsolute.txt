@@ -1,0 +1,225 @@
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.csprojResolveAssemblyReference.cache
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Properties.Resources.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.csproj.GenerateResource.Cache
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_Staffs.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemEntity.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemEntity.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemBUS.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemDAL.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemBUS.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemDAL.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_Products.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_DetailOrderMenu.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_OrderMenu.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_AssignPermission.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_PopUpSearchStaff.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_UserLogin.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_HomePage.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_Report.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_StockManagement.resources
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemValidation.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemValidation.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\iCafe.exe.config
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\iCafe.exe
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\bin\Debug\iCafe.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\iCafe.exe.licenses
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\iCafe.exe
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemUI\obj\Debug\iCafe.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\iCafe.exe.config
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\iCafe.exe
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\iCafe.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\iCafe.exe
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\iCafe.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemBUS.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemDAL.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemEntity.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemValidation.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemBUS.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemDAL.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemEntity.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\AccountingSystemValidation.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.csprojResolveAssemblyReference.cache
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_AssignPermission.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_HomePage.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_PopUpSearchStaff.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_Products.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_Report.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_Staffs.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_OrderMenu.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_StockManagement.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_UserLogin.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Properties.Resources.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.Form_DetailOrderMenu.resources
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\AccountingSystemUI.csproj.GenerateResource.Cache
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\obj\Debug\iCafe.exe.licenses
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.PivotGrid.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Utils.v16.1.UI.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraCharts.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraGauges.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraReports.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.DataAccess.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.CodeParser.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Xpo.v16.1.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraReports.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.DataAccess.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\DevExpress.Xpo.v16.1.xml
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemUI\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll

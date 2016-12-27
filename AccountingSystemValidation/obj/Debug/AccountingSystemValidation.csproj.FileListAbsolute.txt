@@ -1,0 +1,5 @@
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemValidation\bin\Debug\AccountingSystemValidation.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemValidation\bin\Debug\AccountingSystemValidation.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemValidation\obj\Debug\AccountingSystemValidation.csprojResolveAssemblyReference.cache
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemValidation\obj\Debug\AccountingSystemValidation.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemValidation\obj\Debug\AccountingSystemValidation.pdb

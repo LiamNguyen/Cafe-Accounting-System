@@ -1,0 +1,10 @@
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemEntity\bin\Debug\AccountingSystemEntity.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemEntity\bin\Debug\AccountingSystemEntity.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemEntity\obj\Debug\AccountingSystemEntity.csprojResolveAssemblyReference.cache
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemEntity\obj\Debug\AccountingSystemEntity.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemEntity\obj\Debug\AccountingSystemEntity.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemEntity\bin\Debug\AccountingSystemEntity.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemEntity\bin\Debug\AccountingSystemEntity.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemEntity\obj\Debug\AccountingSystemEntity.csprojResolveAssemblyReference.cache
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemEntity\obj\Debug\AccountingSystemEntity.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemEntity\obj\Debug\AccountingSystemEntity.pdb

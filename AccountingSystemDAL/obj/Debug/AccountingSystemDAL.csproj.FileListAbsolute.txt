@@ -1,0 +1,14 @@
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemDAL\obj\Debug\AccountingSystemDAL.csprojResolveAssemblyReference.cache
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemDAL\bin\Debug\AccountingSystemDAL.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemDAL\bin\Debug\AccountingSystemDAL.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemDAL\bin\Debug\AccountingSystemEntity.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemDAL\bin\Debug\AccountingSystemEntity.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemDAL\obj\Debug\AccountingSystemDAL.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemDAL\obj\Debug\AccountingSystemDAL.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemDAL\bin\Debug\AccountingSystemDAL.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemDAL\bin\Debug\AccountingSystemDAL.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemDAL\bin\Debug\AccountingSystemEntity.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemDAL\bin\Debug\AccountingSystemEntity.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemDAL\obj\Debug\AccountingSystemDAL.csprojResolveAssemblyReference.cache
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemDAL\obj\Debug\AccountingSystemDAL.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemDAL\obj\Debug\AccountingSystemDAL.pdb
