@@ -1,0 +1,18 @@
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemBUS.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemBUS.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemDAL.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemEntity.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemDAL.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemEntity.pdb
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\obj\Debug\AccountingSystemBUS.csprojResolveAssemblyReference.cache
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\obj\Debug\AccountingSystemBUS.dll
+C:\Users\LiamNguyen\Documents\LiamNguyen\Cafe Accounting System\AccountingSystem\AccountingSystemBUS\obj\Debug\AccountingSystemBUS.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemBUS.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemBUS.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemDAL.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemEntity.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemDAL.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\bin\Debug\AccountingSystemEntity.pdb
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\obj\Debug\AccountingSystemBUS.csprojResolveAssemblyReference.cache
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\obj\Debug\AccountingSystemBUS.dll
+C:\Users\pnguyen\Documents\AccountingSystem\AccountingSystemBUS\obj\Debug\AccountingSystemBUS.pdb
